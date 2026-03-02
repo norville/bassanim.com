@@ -4,7 +4,23 @@ draft = false
 title = 'About'
 +++
 
-<img src="/images/me.jpg" alt="Marco Bassani" style="max-width: 260px; float: right; margin: 0 0 15px 25px;">
+<style>
+  .profile-photo {
+    max-width: 260px;
+    float: right;
+    margin: 0 0 15px 25px;
+  }
+  @media (max-width: 600px) {
+    .profile-photo {
+      float: none;
+      display: block;
+      max-width: 100%;
+      margin: 0 0 20px 0;
+    }
+  }
+</style>
+
+<img src="/images/me.jpg" alt="Marco Bassani" class="profile-photo">
 
 Hi, I'm Marco — a Facility & Project Manager with 10+ years of experience running
 operations, infrastructure, and multi-site projects in fast-paced retail and tech
