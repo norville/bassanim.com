@@ -18,7 +18,7 @@ Feel free to reach out — I'm always happy to connect.
 |---|---|
 | 📧 Email | [marco@bassanim.com](mailto:marco@bassanim.com) |
 | 💼 LinkedIn | [linkedin.com/in/bassanim](https://linkedin.com/in/bassanim) |
-| 📍 Location | Voorburg, Netherlands |
+| 📍 Location | The Hague, Netherlands |
 | 📞 Phone | +39 320 0507620 |
 
 ---
