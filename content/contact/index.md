@@ -8,7 +8,7 @@ I'm currently based in The Hague, Netherlands, and actively looking for new
 opportunities in facility management, IT operations, or technology-driven
 environments.
 
-Feel free to reach out — I'm always happy to connect.
+Feel free to reach out, I'm always happy to connect.
 
 ---
 
@@ -27,8 +27,4 @@ Feel free to reach out — I'm always happy to connect.
 
 Looking for a summary of my experience?
 
-[Download my CV](/cv/Marco_Bassani_CV_2026.pdf)
-
----
-
-*I typically respond within 24 hours.*
+[Download my CV](/cv/Marco_Bassani_CV.pdf)

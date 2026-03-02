@@ -18,7 +18,7 @@ title = 'Skills'
 
 ## Technology & Tools
 
-- AutoCAD, Wrike, Zendesk
+- AutoCAD, Wrike
 - Microsoft 365 & SharePoint, Google Workspace
 - Virtualisation and homelab infrastructure
 - Cloud technologies and system administration

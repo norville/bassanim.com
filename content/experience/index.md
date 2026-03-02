@@ -7,7 +7,7 @@ title = 'Experience'
 ## Juice S.p.A. — Milan, Italy
 **Facility & Project Manager** | 2019 – 2025
 
-Promoted from Area Sales Manager to lead all facility operations for a 60+ store Apple Premium Partner network — a move driven by the company's recognition of my technical aptitude and my curiosity for continuous learning.
+Promoted from Area Sales Manager to lead all facility operations for a 60+ store Apple Premium Partner network, a move driven by the company's recognition of my technical aptitude and my curiosity for continuous learning.
 
 - Oversaw maintenance, operations, and safety compliance across 60+ retail stores
 - Built and led a dedicated facility team of five
