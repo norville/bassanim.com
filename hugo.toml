@@ -1,5 +1,5 @@
-#baseURL = "https://www.bassanim.com/"
-baseURL = "https://norville.github.io/bassanim.com/"
+baseURL = "https://www.bassanim.com/"
+#baseURL = "https://norville.github.io/bassanim.com/"
 languageCode = "en-us"
 title = "Marco Bassani"
 theme = "terminal"
