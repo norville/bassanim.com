@@ -49,5 +49,5 @@ landscapes on foot or by bike, or behind the decks at a friend's party.
 ---
 <div style="clear: both;"></div>
 
-📄 [Download my CV](/cv/Marco_Bassani_CV.pdf) — or connect with me on
+>> [Download my CV](/cv/Marco_Bassani_CV.pdf) — or connect with me on
 [LinkedIn](https://linkedin.com/in/bassanim).
