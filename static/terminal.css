@@ -385,3 +385,8 @@ th,
 button {
   font-weight: 600;
 }
+
+/* Hide dates under page title */
+.post-meta {
+  display: none;
+}
