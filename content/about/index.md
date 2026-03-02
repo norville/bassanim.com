@@ -23,7 +23,7 @@ vendor management, project delivery, and team leadership. I enjoy bridging the g
 between technical and non-technical worlds — helping people and organisations pick
 the right tools and guiding them through the process of adopting them.
 
-I'm originally from Italy and now based in **Voorburg, Netherlands**, where I'm
+I'm originally from Italy and now based in **The Hague, Netherlands**, where I'm
 actively looking for my next opportunity in operations, IT project management, or
 technology-driven environments.
 

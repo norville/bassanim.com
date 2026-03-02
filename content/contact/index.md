@@ -4,7 +4,7 @@ draft = false
 title = 'Contact'
 +++
 
-I'm currently based in Voorburg, Netherlands, and actively looking for new
+I'm currently based in The Hague, Netherlands, and actively looking for new
 opportunities in facility management, IT operations, or technology-driven
 environments.
 
