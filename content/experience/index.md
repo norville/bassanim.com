@@ -31,7 +31,7 @@ Promoted following strong Store Manager results to oversee six Apple Premium Par
 
 ---
 
-## Juice S.p.A. — Milan, Italy
+## Juice S.p.A. — Alessandria, Italy
 **Retail Store Manager** | 2013 – 2016
 
 Joined following the acquisition of @Work S.r.l., recognised for technical communication skills and leadership ability.
@@ -42,7 +42,7 @@ Joined following the acquisition of @Work S.r.l., recognised for technical commu
 
 ---
 
-## @Work S.r.l. — Turin, Italy
+## @Work S.r.l. — Alessandria, Italy
 **Retail Store Assistant** | 2010 – 2013
 
 Joined while studying Computer Science, applying technical knowledge and Apple expertise in a customer-facing role.
